@@ -1,4 +1,4 @@
-.directive('only-number', function(){
+.directive('onlyNumber', function(){
     return {
         require: 'ngModel',
         link: function(scope, element, attrs, modelCtrl) {
