@@ -10,7 +10,7 @@
                 }
                 return transformedInput;
             };
-            modelCtrl.$parsers.push(function (valueInput);
+            modelCtrl.$parsers.push(valueInput);
         }
     };
 })
